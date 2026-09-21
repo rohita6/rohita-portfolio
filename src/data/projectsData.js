@@ -32,6 +32,7 @@ export const PROJECTS_DATA = [
     category: "FULL STACK",
     highlightBadge: "10x Ingestion Speed",
     tagline: "Smart recipe recommendation system with Express.js gateway & Python intelligence.",
+    image: "/images/Prepwise.png",
     impactStats: {
       recruiter: "Delivers tailored recipe suggestions based on available user ingredients with sub-second latency.",
       engLead: "Express.js route gateway, Python recommendation engine, PostgreSQL DB, React frontend.",
