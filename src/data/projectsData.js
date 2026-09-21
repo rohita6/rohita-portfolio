@@ -38,8 +38,8 @@ export const PROJECTS_DATA = [
       casual: "Helps you instantly discover recipes you can cook right now with what's in your pantry."
     },
     techStack: ["React", "Express.js", "Python", "PostgreSQL", "Tailwind CSS"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://prepwise-six-smoky.vercel.app/",
+    githubUrl: "https://github.com/rohita6/prepwise",
     uiSnippet: {
       title: "recommendation_gateway.py",
       previewText: "def calculate_matching_score(user_pantry, recipe_db):"
